@@ -1,4 +1,4 @@
-values = [6, 9, 6, 12, 3]
+
 def replace_value(values,index,new_value):
    values[index] = new_value
    return None
